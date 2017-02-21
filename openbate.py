@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-"""beetbox.py: Trigger script para baterias electricas."""
+"""openbate.py: Trigger script para baterias electricas."""
 
 __author__ = "Pablo Perez"
 __email__ = "pablomartin.it@gmail.com"
